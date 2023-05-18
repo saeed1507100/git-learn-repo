@@ -1,3 +1,3 @@
 # Git Learning Repository
 
-Some description.
+In this repository I followed to the freecodecamp tutorial of git intro.
